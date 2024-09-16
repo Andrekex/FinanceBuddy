@@ -1,4 +1,6 @@
 FinanceBuddy
+
+
 FinanceBuddy is a desktop financial management application designed to help users efficiently manage their personal or business finances. Whether you're looking to track daily expenses, monitor income, create and maintain budgets, or save for long-term goals like buying a car or travelling, FinanceBuddy offers a simple and powerful solution. The application provides a clear and intuitive interface, analytical tools, and automated features that empower users to gain control over their financial health and stay on track to achieve their goals.
 
 Features
